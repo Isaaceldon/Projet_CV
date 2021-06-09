@@ -505,10 +505,37 @@ font-size:30px;
     .general p{
         font-size: 18px;
     }
-
+    
+    .general{
+        width:100%;
+    }
+    
+    .rubrique{
+        margin-left:25px;
+    }
     .general h1{
         font-size: 25px;
     }
+    
+    .leadership ul li{
+   
+    font-size: 20px;
+    margin-bottom:10px;
+}
+
+.certificate{
+    font-size:20px;
+    margin:20px 0px;
+    text-align:start;
+    
+}
+    
+.online p{
+        
+margin-bottom:10px;
+}
+    
+    
     #head{
        flex-direction: column;
        justify-content: center;
@@ -533,7 +560,7 @@ font-size:30px;
     }
 
     .infos h3{
-        font-size: 20px;
+        font-size:15px;
     }
 
     #container{
@@ -558,6 +585,8 @@ font-size:30px;
         font-size: 20px;
     }
 }
+
+
 
 @media (min-width:768px) and (max-width:1200px){
 
